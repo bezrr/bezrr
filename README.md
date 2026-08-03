@@ -1,16 +1,15 @@
-## Hi there 👋
+# bezrr
 
-<!--
-**bezrr/bezrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Focado em **Web Application Security** e **Pentest**.
 
-Here are some ideas to get you started:
+Atualmente aprofundando conhecimentos em vulnerabilidades web, com ênfase em SQL Injection e Burp Suite.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Foco atual
+- Exploração de vulnerabilidades web
+- Prática com laboratórios reais
+- Metodologias de teste em aplicações
+
+### Objetivo
+Construir uma base técnica sólida em segurança ofensiva e atuar na área de AppSec / Red Team.
+
+---
